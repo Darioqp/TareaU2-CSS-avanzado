@@ -1,0 +1,35 @@
+#contenedor {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 300px;
+    align-items: center;
+    width: 300px;
+    border: 2px solid black;
+    
+}
+
+.rojo {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    
+}
+
+.azul {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.verde {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin-top: 40%;
+
+}
